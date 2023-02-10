@@ -28,3 +28,4 @@ Create a script that copies all the HTML files from the current working director
 You can consider that all HTML files have the extension .html
 advance task 1
 advance task 2
+advance task 3
