@@ -32,4 +32,9 @@ Other users: all the permissions
 
 The file hello will be in the working directory You are not allowed to use commas for this script
 Write a script that sets the mode of the file hello to this:
+Write a script that sets the mode of the file hello the same as olleh’s mode.
 
+
+The file hello will be in the working directory
+
+The file olleh will be in the working directory
