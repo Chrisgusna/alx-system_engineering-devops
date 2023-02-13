@@ -16,3 +16,4 @@ You’re not allowed to use sed
 Write a shell script that creates a file named exactly \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) containing the text Best School ending by a new line.
 task 8
 task 9
+task 10
